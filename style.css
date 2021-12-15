@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #F7F0F0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading{
+    text-align: center;
+}
+
+.container  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.battery{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    color: rgb(255, 255, 255);
+}
+
+.green{
+    background-color: #01497c;
+}
+
+.red{
+    background-color: #2a6f97;
+}
+
+.blue{
+    background-color: #468FAF;
+}
+
+.yellow  {
+    background-color: #89C2D9;
+}
